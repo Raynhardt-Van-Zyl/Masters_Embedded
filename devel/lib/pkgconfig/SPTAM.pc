@@ -1,0 +1,8 @@
+prefix=/home/ros/Documents/Masters_Embedded/devel
+
+Name: SPTAM
+Description: Description of SPTAM
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

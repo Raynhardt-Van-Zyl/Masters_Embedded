@@ -1,0 +1,2 @@
+SPTAM
+-DCATKIN_DEVEL_PREFIX=/home/ros/Documents/Masters_Embedded/devel -DCMAKE_INSTALL_PREFIX=/home/ros/Documents/Masters_Embedded/install -G Unix Makefiles
